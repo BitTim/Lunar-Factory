@@ -1,0 +1,16 @@
+This is the Linux x64 Edition of Lunar Factory
+
+Warning! This is an ALPHA version of the game.
+
+Controls:
+W, A, S, D - Walk
+E          - Open Inventory
+Esc        - Close Game
+Left Mouse - Build
+
+Changelog:
+(+ added feature, - removed feature, * bugfix, / known bug)
+
+v0.0.1
+    + General Release
+    / b_001 Game crashing when left clicking (trying to build)
